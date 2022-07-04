@@ -1,0 +1,35 @@
+.main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+    background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+        background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+        background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+        background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+        background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="promos"] .unit-image-wrapper .unit-image.unit-image-ios-15-preview-tile-ios15 {
+        background-image: url("/in/home/promos/ios-15-preview/images/tile_ios15__fdoo7kck6322_small_2x.jpg")
+    }
+}
